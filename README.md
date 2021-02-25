@@ -1,4 +1,4 @@
-# Linters Config
+# Linters Config Fork
 
 ## How to use this repo? 🤔
 
